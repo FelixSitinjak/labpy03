@@ -1,6 +1,7 @@
 ## **1. Latihan 1**
 
 **Hasil dari latihan 1**
+
 <img width="721" alt="image" src="https://github.com/user-attachments/assets/72b1adfd-ea38-4778-9aa2-0864b98a924f">
 
 **Code**
@@ -40,6 +41,7 @@ Penjelasan Fungsi random.uniform(a, b):
 ## **2. Latihan 2**
 
 **Hasil dari latihan 2**
+
 <img width="722" alt="image" src="https://github.com/user-attachments/assets/8df0119b-39d0-4434-8f7e-00aea7d4258d">
 
 **Code**
@@ -92,6 +94,7 @@ o	Jika bulan 8, laba adalah 200.000.000.
 ## **3. Latihan 3**
 
 **Hasil dari latihan 3**
+
 <img width="719" alt="image" src="https://github.com/user-attachments/assets/7aef73b1-986e-4add-9b44-17e2418b8336">
 
 **Code**
